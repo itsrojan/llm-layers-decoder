@@ -1,0 +1,66 @@
+[
+    {
+        "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat would be the best type of exercise for a person who has arthritis?\n\n### Input:\nNo additional input provided.\n\n### Response:\n",
+        "reference_answer": "For someone with arthritis, the best type of exercise would be low-impact activities like yoga, swimming, or walking. These exercises provide the benefits of exercise without exacerbating the symptoms of arthritis.",
+        "generated_outputs": {
+            "Layer 8": "in order ofBeanFactorynaríoasaheb Joh (",
+            "Layer 16": "аmp href externasenior_rolaugustine",
+            "Layer 24": "gentle aer aer aer aer aer aer aer aer aer",
+            "Layer 32": "The best type of exercise for a person with ar"
+        }
+    },
+    {
+        "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nCalculate the atomic mass for lithium.\n\n### Input:\nNo additional input provided.\n\n### Response:\n",
+        "reference_answer": "The atomic mass for lithium is 6.941 u (units). This is determined from the number of protons and neutrons in the nucleus of a lithium atom, which is 3 protons and 4 neutrons. Each proton and neutron has a mass of 1.007 u, resulting in a total mass of 6.941 u.",
+        "generated_outputs": {
+            "Layer 8": "in.eduuilanteuppertchiá aug",
+            "Layer 16": "The inoxerience ofﬁ️️️",
+            "Layer 24": "l Lithium atomic mass is mass number of atom",
+            "Layer 32": "The atomic mass for lithium is 6"
+        }
+    },
+    {
+        "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nConvert the following binary code to ASCII characters.\n\n### Input:\n01110101 01100001 01110010 01101001 01110100\n\n### Response:\n",
+        "reference_answer": "The ASCII characters for the binary code is: wast.",
+        "generated_outputs": {
+            "Layer 8": "ogerastequevoạ�Flagship Traceback de",
+            "Layer 16": "Archivlink://www …ALSEuilobreрemeission",
+            "Layer 24": {
+                "text": "<s> Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nConvert the following binary code to ASCII characters.\n\n### Input:\n01110101 01100001 01110010 01101001 01110100\n\n### Response:\n characters: Hello world",
+                "output": "characters: Hello world\n",
+                "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nConvert the following binary code to ASCII characters.\n\n### Input:\n01110101 01100001 01110010 01101001 01110100\n\n### Response:\n"
+            },
+            "Layer 32": "A, B, C, D, E,"
+        }
+    },
+    {
+        "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake this sentence and make it more descriptive: She was scared.\n\n### Input:\nShe was scared.\n\n### Response:\n",
+        "reference_answer": "She was trembling with fear, her heart racing wildly and her breath coming in short, panicked gasps. She felt her palms begin to sweat and her stomach tying itself into knots.  She was scared.",
+        "generated_outputs": {
+            "Layer 8": "ченко,framiezovitypeneuwcontrolsdonnées autory",
+            "Layer 16": "аloc�️️️️️️️",
+            "Layer 24": "she terrorized by terrorized by terrorized by",
+            "Layer 32": "She was petrified, her heart pounding"
+        }
+    },
+    {
+        "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nBrainstorm 3 possible ideas to promote the following product\n\n### Input:\nNew motorized skateboard\n\n### Response:\n",
+        "reference_answer": "1. Offer a free trial for a limited time.\n2. Give away several skateboards in a raffle or sweepstakes.\n3. Host a promotional event featuring the skateboard doing stunts in various locations.",
+        "generated_outputs": {
+            "Layer 8": "forego detection Bedeutlesetlosnesses Janu",
+            "Layer 16": "•    шиema ipsum dolorstagging socialmedia",
+            "Layer 24": "ideas to Promprom motorized sk sk sk sk",
+            "Layer 32": "1. Host a skateboarding competition with"
+        }
+    },
+    {
+        "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nRewrite the sentence using imperative mood.\n\n### Input:\nPlease pick up the book from the shelf.\n\n### Response:\n",
+        "reference_answer": "Pick up the book from the shelf.",
+        "generated_outputs": {
+            "Layer 8": "to coll virtuelmentescheragt Хронологија┌ IPv",
+            "Layer 16": "obeuntimelpatformerRORsmbHkeitenhape",
+            "Layer 24": "pick up the book from the shelf now.",
+            "Layer 32": "Pick up the book from the shelf."
+        }
+    }
+]
